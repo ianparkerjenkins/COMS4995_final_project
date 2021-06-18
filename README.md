@@ -3,7 +3,7 @@ Medical imaging segmentation project for COMS4995 @ Columbia
 
 
 In this submission I've included:
-	A video.txt file that contains a link to my YouTube video
+	A video.txt file that contains a link to my YouTube video (https://youtu.be/q-GHqX1-B7U)
 	The slides used to create the video 
 	A written transcript of my voice track for the video 
 	The ipynb containing the code for my project 
